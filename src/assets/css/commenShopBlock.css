@@ -1,0 +1,50 @@
+
+.container{
+    padding: 0;
+    background: #EFEFF4;
+}
+.row{
+    margin: 0;
+}
+.title{
+    font-size: 16px;
+    font-weight: bold;
+}
+.panel:first-child{
+    margin-bottom: 1px;
+}
+.panel{
+    margin-bottom:5px;
+}
+
+.btnGroup{
+    /* margin-top: 5px; */
+    border-top: 2px solid #EFEFF4;
+    border-radius: 5px;
+}
+.btnGroup .btn{
+    outline: none;
+}
+.desc{
+    padding: 0;
+}
+.restaurant img{
+    padding: 5px 0;
+}
+.dist{
+    font-size: 12px;
+}
+
+.address{
+    margin-top: 10px;
+    padding: 0;
+    font-size: 12px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.reputable span{
+    /* margin: 10px 0 0 0; */
+    color: #FBBA2C;
+}
+
